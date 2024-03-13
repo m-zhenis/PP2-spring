@@ -1,6 +1,6 @@
 import os
 
-path = os.chdir("C:\\Users\\m-zhenis\\git_test\\labs\\lab6.2\\Files and directories manipulation")
+path = os.chdir("C:\\Users\\m-zhenis\\git_test\\labs\\lab6.2\\File handling")
 
 print("Directories:", [item for item in os.listdir(path) if os.path.isdir(item)])
 
