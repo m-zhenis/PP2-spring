@@ -1,6 +1,6 @@
 import os
 
-path = "C:\\Users\\arsen\\git_test\\labs\\lab 6\\Files and directories manipulation"
+path = "C:\\Users\\m-zhenis\\git_test\\labs\\lab6.2\\File handling"
     
 for letter in range(ord('A'), ord('Z') + 1):
     file_name = f"{chr(letter)}.txt"
